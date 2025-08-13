@@ -85,4 +85,4 @@ Fields Included: Order Date, Region, State, Category, Sub-category, Segment, Sal
 
 Screenshots / Demos
 show what the dashboard looks like : 
-Example : 
+Example : https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard%20P
