@@ -57,7 +57,7 @@ West	Highest	Highest	Dominates both sales & profit; possibly due to high-value p
 
 Repository  Structure : 
 
-dashboard : 
+dashboard file : (https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard.pbit)
 
 images : (https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard%20Pics)
 
