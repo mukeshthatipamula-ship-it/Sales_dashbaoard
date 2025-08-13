@@ -84,5 +84,5 @@ Format: CSV/Excel
 Fields Included: Order Date, Region, State, Category, Sub-category, Segment, Sales, Profit, Quantity, Payment Mode, Ship Mode.
 
 Screenshots / Demos
-show what the dashboard looks like : 
+show what the dashboard looks like : https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard%20P
 Example : https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard%20P
