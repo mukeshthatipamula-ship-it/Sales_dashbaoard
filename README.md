@@ -55,13 +55,11 @@ East	High	High	Strong performance; profitable region.
 South	Medium-high	Moderate	Good sales but profit slightly lower compared to East.
 West	Highest	Highest	Dominates both sales & profit; possibly due to high-value products and strong customer base.
 
-Repository : 
-
-data : 
+Repository  Structure : 
 
 dashboard : 
 
-images : 
+images : (https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard%20Pics)
 
 
 Summary:
