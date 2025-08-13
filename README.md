@@ -59,7 +59,8 @@ Repository  Structure :
 
 dashboard file : (https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard.pbit)
 
-images : (https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard%20Pics)
+images : (https://github.com/mukeshthatipamula-ship-it/Sales_dashbaoard/blob/main/Sales_dashboard%20Pics/dashboard_overview.png)
+
 
 
 Summary:
